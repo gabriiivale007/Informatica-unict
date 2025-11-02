@@ -1,6 +1,6 @@
 # Informatica-unict
 
-Benvenuti nel repository **Informatica-unict**, creato da Gabriele (studente di informatica presso l’Università degli Studi di Catania) per raccogliere appunti, esercizi e progetti dei corsi di informatica.
+Benvenuti nel repository **Informatica-unict**, creato da Gabriele (studente di informatica presso l’Università degli Studi di Catania) per raccogliere appunti, esercizi e progetti dei corsi di informatica L-31.
 
 ---
 
