@@ -2,6 +2,7 @@
     #include <math.h>
     su GNU/Linux compilare con il flag finale -lm
 
+    math.h
     Funzioni matematiche:
 
     pow(x, y)   -> double   x^y.            potenza
