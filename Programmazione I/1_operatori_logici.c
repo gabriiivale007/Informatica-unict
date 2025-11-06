@@ -40,6 +40,9 @@ int main()
     // Sottrazione
     int sottrazione = 10 - 3; // risultato: 7
 
+    // Moltiplicazione 
+    int moltiplicazione  = 10 * 3; // risultato: 30
+
     // Divisione
     float divisione = 10.0 / 3.0; // risultato: 3.333...
     int divisioneIntera = 10 / 3; // risultato: 3 (divisione tra interi)
